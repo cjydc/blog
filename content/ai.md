@@ -69,6 +69,7 @@ taxonomies:
 - [ai 帮你自动分类，整理任何东西](https://fabric.so/fabric-for-ios-and-android)
 - [让 ai 帮你打电话给某个餐厅或者任何人](https://www.belva.ai/) - 你描述你的需求，ai 帮你完成
 - [语音转录工具](https://transcript.lol/)
+- [AnyScript](https://anyscript.app/) - 将 TikTok、Instagram Reels 和 YouTube 视频转为带时间戳的文字，支持字幕导出、创意分析和原创脚本草稿。
 - [浏览器 llm](https://tinyllms.vercel.app/)
 
 ## 开源
